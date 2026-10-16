@@ -1,0 +1,10 @@
+{
+  "payload": {
+    "format": 1,
+    "version": 1,
+    "issued": "2026-10-16",
+    "expires": null,
+    "features": {}
+  },
+  "sig": "ME5TpJr8jTVtE1LtSr6s66vFe//Bw8pezrAO+E9wVvVyBmxvZPtlHMj1TOeItk29PIC5biyVye5760Nl5rIVCg=="
+}

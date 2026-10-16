@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "format": "easential-update-1",
+    "build": 2,
+    "version": "1.0.1",
+    "min_build": 1,
+    "url": "https://github.com/arcky01242016-crypto/Easential-Config/releases/download/v1.0.1/Easential-1.0.1.zip",
+    "sha256": "e01d6d3f2ef4796ae8c17cd8b99d8bcbade4fa3d462da4ad79b9fec91fa5c84b",
+    "size": 84134373,
+    "notes": "What is new",
+    "blocked_builds": [],
+    "issued": "2026-10-16",
+    "expires": null
+  },
+  "sig": "DGVaAYi97j0tsTrMckHJ4270C7n01ZHOzgn23i8FjLoxkisD9+DIC84bdLB7RJY+v7AcotynwRi8tDRmhvHLCg=="
+}
